@@ -1,2 +1,2 @@
-# LRCN-Model-For-Activity-Recognition
-LRCN Model For Human Activity Recognition 
+# Policy Based Employee Based Productivity Management System
+Autonomous Human Activity Recognition using LRCN & ConvLSTM models 
