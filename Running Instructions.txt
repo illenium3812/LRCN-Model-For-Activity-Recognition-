@@ -1,0 +1,16 @@
+Install all requirements
+
+Create the database and change the database credentials in the FYPdatabasefuncs.py to the ones you created.
+
+open FYPadmin.py
+
+A login box will open:
+username: admmin
+password: 1234
+
+The dashboard will open, click on start report generator to start the predictions and report maker.
+
+You can also create and delete users, employees, and policies.
+
+To stop the report generator video output press 'q' to quit.
+
